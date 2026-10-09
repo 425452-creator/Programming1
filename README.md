@@ -1,7 +1,10 @@
 # Calcvin
 
+![Calculator](https://github.com/425452-creator/Programming1/blob/main/images/Calcvin.png?raw=true)
+[File Link]()
+
 ## Overview
-I have most features of a standard calculator. There are also 4 additonal buttons for sine, cosine, tangent, and exponents.
+It has most features of a standard calculator. There are also 4 additonal buttons for sine, cosine, tangent, and exponents.
 
 ## Current Status
 Working:
@@ -23,16 +26,21 @@ Use to click buttons on mouse release.
 Keyboard:
 -All numbers are coded to their keys, either main keyboard or numberpad
 -Equals works with either enter, or the equals key
--Plus only works via numberpad
+-Plus and multiply only work via the numberpad
 -Minus and divide work from either normal keyboard or numberpad
+-Sin is s, cos is c, tan is t
+-Cl is through backspace or delete
+-Exponent is up arrow
 
 ## Project Files
-[Identify the main sketch and other tabs or assets
-you will upload.]
+-Calculator/Calculator.pde
+-Calculator/Button.pde
 
 ## Testing
-[Record one test: actions, expected result,
-and actual result.]
+-2+2=4
+-+6=10
+-/2=5
+-3=2
 
 ## Next Step
-[Name the specific behavior you will build or fix next.]
+I'll try to fix the result concatination.
